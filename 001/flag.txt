@@ -1,0 +1,1 @@
+linuxctf{cat_is_read-command}
