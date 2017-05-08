@@ -27,14 +27,3 @@ If you can't use "cd" and "ls" command, please learn these commands.
 017 Line Match(grep)
 018 Difference(diff)
 019 Duplicate(uniq)
-020
-021
-022 
-023
-024
-025
-026
-027
-028
-029
-030
