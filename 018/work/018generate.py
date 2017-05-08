@@ -11,7 +11,8 @@ def main():
 	for i in range(0,10000):
 		workstr += gen_rand_str(100) + "\n"
 
-	str2 = str1 = workstr
+	str1 += workstr
+	str2 += workstr
 	str1 += "linuxctf{it_is_easy_to_find_difference}\n"
 
 	workstr = ""

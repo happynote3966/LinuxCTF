@@ -1,0 +1,21 @@
+000 linuxctf{you_can_move_directory}
+001 linuxctf{cat_is_read-command}
+002 linuxctf{can_you_execute_this_program?}
+003 linuxctf{rev_is_command_to_make_easy_cipher_or_easy_obfuscation}
+004 linuxctf{you_can_cp_command_to_copy_file}
+005 linuxctf{strings_is_good_command}
+006 linuxctf{base64_is_easy_cipher}
+007 linuxctf{Compressed_by_zip}
+008 linuxctf{Can_you_find_this_file?}
+009 linuxctf{This_file_is_Picture}
+010 linuxctf{Can_you_rename_me?}
+011 linuxctf{mkdir_is_basic_command}
+012 linuxctf{rmdir_is_only_delete_empty_directory}
+013 linuxctf{rm_is_dangerous_command!}
+014 linuxctf{tar_command_have_many_options!}
+015 linuxctf{gzip_is_using_Lempel-Ziv-Coding}
+016 linuxctf{bzip2_is_using_burrows-wheeler_Algorithm}
+017 linuxctf{grep_is_very_usuful_command!}
+018 linuxctf{it_is_easy_to_find_difference}
+019 linuxctf{Unique_message}
+
