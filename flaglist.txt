@@ -18,4 +18,8 @@
 017 linuxctf{grep_is_very_usuful_command!}
 018 linuxctf{it_is_easy_to_find_difference}
 019 linuxctf{Unique_message}
+020 linuxctf{which_is_searching_the_file}
+020 linuxctf{determine_and_execute_is_success!}
+020 linuxctf{checking_the_binary_and_examine_it!}
+021 linuxctf{wc_is_counting_the_number_of_word_or_line}
 

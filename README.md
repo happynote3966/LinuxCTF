@@ -27,8 +27,8 @@ If you can't use "cd" and "ls" command, please learn these commands.
 - 017 Line Match(grep)
 - 018 Difference(diff)
 - 019 Duplicate(uniq)
-- 020
-- 021
+- 020 Tell me the Executable(which)
+- 021 count,count,count!(wc)
 - 022 
 - 023
 - 024
